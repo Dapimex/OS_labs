@@ -1,0 +1,18 @@
+    1  gcc
+    2  sudo apt install gcc
+    3  apt-get update
+    4  gcc
+    5  sudo apt-get update
+    6  sudo apt install gcc
+    7  gcc
+    8  ~
+    9  cd /c/
+   10  cd ~
+   11  mkdir week1
+   12  cd ~/week1
+   13  ls /usr/bin | grep "gcc" | sort -r > ex1.txt
+   14  ls
+   15  read
+   16  head -n 2 < ex1.txt
+   17  whoami
+   18  history > ex2.txt
