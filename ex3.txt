@@ -1,0 +1,6 @@
+-rw-rw-rw- 1 dapimex dapimex 0 Oct 24 18:53 _ex3.txt
+-rwxrw-rwx 1 dapimex dapimex 0 Oct 24 18:53 _ex3.txt
+-rwxrwxrwx 1 dapimex dapimex 0 Oct 24 18:53 _ex3.txt
+660 means u=rw- g=rw- o=---
+775 means u=rwx g=rwx o=r-x
+777 means u=rwx g=rwx o=rwx
