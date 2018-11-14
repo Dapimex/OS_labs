@@ -63,12 +63,6 @@ int main() {
                     a_resources[res] = a_resources[res] + c_matrix[init_proc][res];
                     r_matrix[init_proc][res] = e_resources[res] + 1; //just to disable process to be found again
                 }
-
-                for (int i = 0; i < RES_NUMBER; i++) {
-                    printf("%d ", a_resources[i]);
-                }
-                printf("\n");
-
             }
             init_proc++;
         }
